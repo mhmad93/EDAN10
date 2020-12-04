@@ -1,6 +1,7 @@
 package tree;
 ........................................C7 ERIC CHANGES
 -m option check o6 ERIC
+new add
 /**
  * This is a node in a binary search tree. The node holds an integer value.
  *
