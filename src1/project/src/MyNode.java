@@ -1,6 +1,7 @@
 package tree;
-
-/** merge conflict
+........................................C7 ERIC CHANGES
+-m option check o6 ERIC
+/**
  * This is a node in a binary search tree. The node holds an integer value.
  *
  * @author Torbjorn Ekman
