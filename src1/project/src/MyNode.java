@@ -1,6 +1,7 @@
 package tree;
 ........................................C7 ERIC CHANGES
 -m option check o6 ERIC
+new add
 /**
  * uncommited change
  * Conflict line 
