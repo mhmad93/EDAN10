@@ -3,7 +3,8 @@ package tree;
 -m option check o6 ERIC
 new add
 /**
- * uncommited change
+ * changing uncommited change 2
+ * uncommited change 1
  * Conflict line 
  * Viktors change 
  * Very important comment 
